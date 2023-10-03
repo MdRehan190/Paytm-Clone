@@ -1,20 +1,7 @@
 # Clone of Paytm 
 
-## Hi there, I am `Akshay Barapatre` Aspiring FullStack Javascript Developer   
+## Hi there, I am `Md Rehan` Aspiring FullStack Javascript Developer   
 
-![HTML,CSS](https://img.shields.io/badge/HTML-CSS-green)
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-important)
-
-![Bootcamp](https://img.shields.io/badge/Bootcampt-.-success)
-
-![Assingment](https://img.shields.io/badge/Assingment-.-blueviolet)
-
-![MobileResponsive](https://img.shields.io/badge/Mobile-Responsive-critical)
-
-![GitHub](https://img.shields.io/badge/GIT-HUB-sucess)
-
-![iNeuron,LCO](https://img.shields.io/badge/iNeuron-LCO-red)
 
 
 ---
